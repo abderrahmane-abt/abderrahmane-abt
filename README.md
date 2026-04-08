@@ -4,9 +4,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=af19ea&center=true&vCenter=true&width=700&lines=Mobile+Apps+%7C+Android+Studio;3D+Modeling+%26+Animation+%7C+Blender;AI+exploration+%7C+Fine-Tuning;Frontend+Craft+%7C+Perfect+UI)](https://github.com/Moorix101)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=af19ea&center=true&vCenter=true&width=700&lines=Mobile+Apps+%7C+Android+Studio;3D+Modeling+%26+Animation+%7C+Blender;AI+exploration+%7C+Fine-Tuning;Frontend+Craft+%7C+Perfect+UI)](https://github.com/abderrahmane-abt)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Moorix101&style=for-the-badge&color=F5792A&label=PROFILE+VIEWS)](https://github.com/Moorix101)
+[![Profile Views](https://komarev.com/ghpvc/?username=abderrahmane-abt&style=for-the-badge&color=F5792A&label=PROFILE+VIEWS)](https://github.com/abderrahmane-abt)
 [![Email](https://img.shields.io/badge/Email-F5792A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abderrahmaneaboutalibofficiel@gmail.com)
 
 </div>
@@ -32,10 +32,10 @@
 
 | 📱 Mobile | 🤖 AI | 🎮 Creative |
 |:---:|:---:|:---:|
-| **ESTSBConnect** ⭐<br/>*Flutter · Supabase · Real‑time*<br/>Campus social platform<br/>[→ Repo](https://github.com/Moorix101/ESTSBConnect) | **PlantDiseaseDetectionAi** ⭐<br/>*Python · Flask · CNN+SVM*<br/>Live web diagnosis<br/>[→ Repo](https://github.com/Moorix101/PlantDiseaseDetectionAi) | **3D_Shirt_Configurator**<br/>*Three.js · JavaScript*<br/>Interactive 3D browser tool<br/>[→ Repo](https://github.com/Moorix101/3D_Shirt_Configurator) |
-| **TeleVault**<br/>*Java · Telegram API*<br/>Telegram as cloud storage<br/>[→ Repo](https://github.com/Moorix101/TeleVault)  | | 🧊 **Blender** (learning)<br/>*3D modeling · animations*<br/>Product visualization pipeline<br/>🔨 Work in progress |
-| **LetsPark**<br/>*Java · Android Studio*<br/>Smart parking manager<br/>[→ Repo](https://github.com/Moorix101/LetsPark) | | |
-| **LuxTorch**<br/>*Java · Sensor API*<br/>Ambient light flashlight<br/>[→ Repo](https://github.com/Moorix101/LuxTorch) | | |
+| **ESTSBConnect** ⭐<br/>*Flutter · Supabase · Real‑time*<br/>Campus social platform<br/>[→ Repo](https://github.com/abderrahmane-abt/ESTSBConnect) | **PlantDiseaseDetectionAi** ⭐<br/>*Python · Flask · CNN+SVM*<br/>Live web diagnosis<br/>[→ Repo](https://github.com/abderrahmane-abt/PlantDiseaseDetectionAi) | **3D_Shirt_Configurator**<br/>*Three.js · JavaScript*<br/>Interactive 3D browser tool<br/>[→ Repo](https://github.com/abderrahmane-abt/3D_Shirt_Configurator) |
+| **TeleVault**<br/>*Java · Telegram API*<br/>Telegram as cloud storage<br/>[→ Repo](https://github.com/abderrahmane-abt/TeleVault)  | | 🧊 **Blender** (learning)<br/>*3D modeling · animations*<br/>Product visualization pipeline<br/>🔨 Work in progress |
+| **LetsPark**<br/>*Java · Android Studio*<br/>Smart parking manager<br/>[→ Repo](https://github.com/abderrahmane-abt/LetsPark) | | |
+| **LuxTorch**<br/>*Java · Sensor API*<br/>Ambient light flashlight<br/>[→ Repo](https://github.com/abderrahmane-abt/LuxTorch) | | |
 
 </div>
 ---
@@ -44,15 +44,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Moorix101&theme=radical&hide_border=true&border_radius=12&ring=F5792A&fire=FF6B6B&currStreakLabel=F5792A" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abderrahmane-abt&theme=radical&hide_border=true&border_radius=12&ring=F5792A&fire=FF6B6B&currStreakLabel=F5792A" height="165"/>
 
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Moorix101&theme=redical&hide_border=true&radius=8)](https://github.com/Moorix101)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abderrahmane-abt&theme=redical&hide_border=true&radius=8)](https://github.com/abderrahmane-abt)
 
 </div>
 
 ---
-<img src="https://raw.githubusercontent.com/Moorix101/moorix101/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/abderrahmane-abt/abderrahmane-abt/output/snake.svg" alt="Snake animation" />
 
 ###
 ## 🌱 Currently
